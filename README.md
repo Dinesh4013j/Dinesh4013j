@@ -7,8 +7,8 @@ Searching a job opportunity to learn and Apply my Skills
 
 ## Interested in:
   ## DSA
-    - Leetcode 
-    - CodeChef
+    ## Leetcode 
+    ## CodeChef
   ## Development
     - HTML
     - CSS
