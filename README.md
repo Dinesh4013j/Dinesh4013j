@@ -29,7 +29,7 @@
 
 ### 💡 Quote of the Day  
 
-_"Success is the sum of small efforts repeated day in and day out."_  
+_"Failure helps us to learn from Mistakes, bug will help to good programmer"_  
 
     
   
