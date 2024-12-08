@@ -29,7 +29,7 @@
 
 ### 💡 Quote of the Day  
 
-_"Failure helps us to learn from Mistakes, bug will help to good programmer"_  
+_"Failure helps us to learn from Mistakes, bug in code  will help to good programmer"_  
 
     
   
