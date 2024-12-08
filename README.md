@@ -29,7 +29,7 @@
 
 ### 💡 Quote of the Day  
 
-_"Failure helps us to learn from Mistakes, bug in code  will help to good programmer , Fail and Success , bug ad Debug.."_  
+_"Failure teaches us to learn from mistakes. A bug in code shapes a good programmer. Fail, debug, and succeed—growth lies in the process. A Programmer not afraid of bug and a successful man not afraid of Failure"_  
 
     
   
