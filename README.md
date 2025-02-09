@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 
-- 🖥️ **MERN Stack Developer** | **DSA Problem Solver**  
+- 🖥️ **MERN Stack Developer** | **Java Developer** | **DSA Problem Solver**  
 - 🎯 Currently working on: **DSA and Development**  
 
 
